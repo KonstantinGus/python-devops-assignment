@@ -1,6 +1,7 @@
 def add(a: float, b:float) -> float:
     """Palauta kahden luvun summa."""
     return a + b
+#töttöröö
 
 def classify_temperature(celsius: float) -> str:
     """Luokittele lämpötila yksinkertaisesti."""
