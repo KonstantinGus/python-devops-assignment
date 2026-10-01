@@ -1,1 +1,3 @@
-ruff lint virhe koska format ei ole python guiden mukaista, eiköhän vedetä ruff check ja --fix paikallisesti
+[![Python CI](https://github.com/KonstantinGus/python-devops-assignment/actions/workflows/worky.yml/badge.svg)]
+(https://github.com/KonstantinGus/python-devops-assignment/actions/workflows/worky.yml)
+
